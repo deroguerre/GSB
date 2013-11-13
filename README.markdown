@@ -1,5 +1,4 @@
 == README
-
 Réseau social pour l’entreprise GSB
 
 Définition: Un réseau social d’entreprise (RSE) est un regroupement de membre d’une même entreprise à des fins professionnelles. Ainsi la plate-forme développé réunira les employés d’une entreprises, ses actionnaires et partenaires afin de facilité la communication, le partage, l’organisation et la gestion au sein de l’entreprise.
