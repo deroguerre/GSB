@@ -36,7 +36,7 @@ describe PagesController do
 
   it "Dois avoir le bon titre" do
     get 'about'
-    response.should have_selector("title", :content => "About")
+    response.should have_selector("title", :content => "A Propos")
   end
 
 end
