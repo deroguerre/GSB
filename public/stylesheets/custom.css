@@ -3,23 +3,28 @@
 }
 
 body {
-  background: #EFECCA;
+  background: #B5DED0;
+  background-image:url(/images/hand.png);
+  background-repeat:no-repeat;
 }
 
 header {
+  height: 100px;
   padding-top: 20px;
   
 }
 
 header img {
   padding: 1em;
+  float: left;
+  position: relative;
 }
 
 section {
   margin-top: 1em;
   font-size: 120%;
   padding: 20px;
-  background: #fff;
+  background: #EFF0FF;
 }
 
 section h1 {
@@ -45,13 +50,15 @@ a:visited {
 /* Navigation */
 
 nav {
-  float: left;
+  float: right;
+  position: relative;
 }
 
 nav {
-  background-color: white;
+  background-color: #EFF0FF;
   padding: 0 0.7em;
   white-space: nowrap;
+  font-size: medium;
 }
 
 nav ul {

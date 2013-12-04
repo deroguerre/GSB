@@ -6,6 +6,7 @@ GSB::Application.routes.draw do
   get '/about' => 'pages#about'
   get '/help' => 'pages#help'
   get '/contact' => 'pages#contact'
+  get '/signup' => 'users#new'
   #get "pages/home"
   #get "pages/contact"
   #get "pages/about"
